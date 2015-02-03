@@ -1,1 +1,1 @@
-http://darrenderidder.github.io/talks/MachineLearning
+http://73rhodes.github.io/talks/MachineLearning
