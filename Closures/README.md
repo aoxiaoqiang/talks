@@ -1,1 +1,1 @@
-http://darrenderidder.github.io/talks/Closures
+http://aoxiaoqiang.github.io/talks/Closures
